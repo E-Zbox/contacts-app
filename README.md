@@ -1,4 +1,4 @@
-# Contacts App
+# Contacts App 📔
 
 ### Table of Contents
 
@@ -15,18 +15,18 @@
 
 This is a mobile application that uses [contacts API](https://randomuser.me) to generate contact(s) in the 3 screens (Contact, Favorites and User screens).
 
-#### Technologies Used
+#### Technologies Used ⚙
 
 -   **[React Native](https://reactnative.dev)**
     React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities
 
--   [Expo](https://docs.expo.dev)
+-   **[Expo](https://docs.expo.dev)**
     Allows developers to build one project that runs natively on all your user's devices. Go to AppStore (iOS) or PlayStore (Android OS) to install ExpoGo for respective devices.
 
--   [Axios]
+-   **[Axios](https://www.npmjs.com/package/axios)**
     Axios is a simple promise based HTTP client for the browser and Node.js. Axios provides a simple to use library in a small package with a very extensible interface
 
-## Cloning and Installation
+## Cloning and Installation 👩‍💻
 
 #### Cloning the repository
 
@@ -39,14 +39,12 @@ Change directory to the cloned repository `cd contacts_app`
 **Pre-requisites**
 
 -   Download and install [Node.js](https://nodejs.org)
--   Confirm installation of npm using the command
+-   Confirm installation of npm using the command to check for version.
 
 ```bash
 $ npm --version
 8.19.2
 ```
-
-to check for version.
 
 -   Run the command `npm install` to install project dependencies and devDependencies.
 -   Connect your mobile and local machine to the same Wifi-network
@@ -59,7 +57,7 @@ to check for version.
 
 Visit the [Expo documentation](https://docs.expo.dev) for a detailed explanation on installing and running the mobile application
 
-## Screenshots
+## Screenshots 🖼
 
 ![Contacts Screen](./screenshots/Screenshot_1.jpg)
 
@@ -71,6 +69,6 @@ Visit the [Expo documentation](https://docs.expo.dev) for a detailed explanation
 
 ![Code snippet](./screenshots/code_snippet.png)
 
-### Developer
+### Developer 🧑💻
 
 [Ononogbu Ebenezer](https://twitter.com/E-Zbox)
